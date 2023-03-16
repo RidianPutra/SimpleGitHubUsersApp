@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Simple Github Users App</string>
+
+    <string name="home_title">Home</string>
+    <string name="favorite_title">Favorite User</string>
+    <string name="user_details">User Details</string>
+
+    <string name="user_favorite">The user has been favoured</string>
+    <string name="user_unfavorite">The user is no longer favored</string>
+
+    <string name="iv_content_description">Image View Content Description</string>
+    <string name="fab_content_description">FAB Content Description</string>
+
+    <string name="went_wrong">Something went wrong</string>
+    <string name="no_data">No data found!</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="name_detail">\@%s</string>
+    <string name="list_url">List of Url :</string>
+</resources>
