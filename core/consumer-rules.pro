@@ -1,7 +1,7 @@
 -keep class kotlin.** { *; }
--keepclassmembers class com.ridianputra.core.databinding.**  {
-    public <methods>;
-}
+#-keepclassmembers class com.ridianputra.core.databinding.**  {
+#    public <methods>;
+#}
 
 ##---------------Begin: proguard configuration for SQLCipher  ----------
 -keep,includedescriptorclasses class net.sqlcipher.** { *; }
